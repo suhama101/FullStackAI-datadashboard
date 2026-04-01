@@ -8,7 +8,7 @@ Main API backend: server.js (Express)
 Main ML engine: ml_model.py (Python)
 
 To run this app:
-  .venv\Scripts\Activate.ps1
+	.venv\\Scripts\\Activate.ps1
   streamlit run app.py
 
 See ARCHITECTURE.md for full system details.
